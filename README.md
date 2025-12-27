@@ -77,7 +77,8 @@ This project is especially useful for **cybersecurity students, malware research
 6. Fusion & Decision Logic
 7. Report Generation & Storage
 
-*(Architecture diagram can be placed here)*
+<img width="1051" height="743" alt="image" src="https://github.com/user-attachments/assets/9b372016-8842-4685-846f-8a8328bec649" />
+
 
 
 
