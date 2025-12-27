@@ -86,25 +86,17 @@ This project is especially useful for **cybersecurity students, malware research
 
 ## **Output**
 
-### **Output 1 – Static Analysis Report**
+### **Output 1 – Malicious**
 
-* File hashes (MD5, SHA256)
-* ELF header details
-* Embedded strings
-* YARA rule matches
-
-*(Screenshot placeholder)*
+![WhatsApp Image 2025-12-27 at 9 40 09 PM](https://github.com/user-attachments/assets/7e3db16d-bdbe-4a56-b5af-ca3475e12009)
 
 
 
-### **Output 2 – Dynamic Analysis Report**
 
-* Process execution logs
-* File system modifications
-* Network connections and DNS requests
-* Behavioral indicators
+### **Output 2 – Non-Malicious**
 
-*(Screenshot placeholder)*
+![WhatsApp Image 2025-12-27 at 9 40 51 PM](https://github.com/user-attachments/assets/f7d0bdb8-5e3b-454d-a45e-b6fd1d0878ae)
+
 
 ---
 
