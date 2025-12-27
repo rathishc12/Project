@@ -1,7 +1,4 @@
-# **Title of the Project**
-
-**ContainX – Automated Linux Malware Analysis and Sandbox Framework**
-
+# **ContainX- isolates and analyzes every package, allowing only trusted software**
 
 ## **Small Description**
 
