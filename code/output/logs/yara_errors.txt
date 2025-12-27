@@ -1,0 +1,2 @@
+/config/yara/index.yar(2): error: can't open include file: signature-base/yara/index.yar
+/config/yara/index.yar(3): error: can't open include file: reversinglabs-yara-rules/yara/index.yar

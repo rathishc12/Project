@@ -1,0 +1,21 @@
+--- /tmp/fs_before.txt	2025-12-27 10:25:14.052937415 +0000
++++ /tmp/fs_after.txt	2025-12-27 10:40:14.268729349 +0000
+@@ -195,7 +195,7 @@
+ /etc/protocols 2932
+ /etc/python3.10/sitecustomize.py 155
+ /etc/python3/debian_config 94
+-/etc/resolv.conf 248
++/etc/resolv.conf 21
+ /etc/rpc 887
+ /etc/security/access.conf 4564
+ /etc/security/faillock.conf 2234
+@@ -236,7 +236,8 @@
+ /etc/update-motd.d/50-motd-news 5023
+ /etc/update-motd.d/60-unminimize 356
+ /etc/xattr.conf 681
+-/tmp/fs_before.txt 0
++/tmp/fs_after.txt 0
++/tmp/fs_before.txt 596704
+ /usr/bin/[ 51648
+ /usr/bin/addpart 14720
+ /usr/bin/apt 18824

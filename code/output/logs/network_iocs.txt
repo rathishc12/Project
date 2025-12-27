@@ -1,0 +1,14 @@
+17:37:57.520786 eth0  M   IP6 fe80::a0e9:dcff:fe38:4bde > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+17:37:57.616880 eth0  M   IP6 :: > ff02::1:ffd0:2b07: ICMP6, neighbor solicitation, who has fe80::68f4:a5ff:fed0:2b07, length 32
+17:37:57.886873 eth0  Out ARP, Request who-has 172.17.0.2 tell 172.17.0.2, length 28
+17:37:58.641231 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+17:37:58.641258 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::2: ICMP6, router solicitation, length 16
+17:37:58.729010 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+17:37:58.888305 eth0  Out ARP, Request who-has 172.17.0.2 tell 172.17.0.2, length 28
+17:38:02.640741 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::2: ICMP6, router solicitation, length 16
+17:38:10.832783 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::2: ICMP6, router solicitation, length 16
+17:38:27.985021 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::2: ICMP6, router solicitation, length 16
+17:39:00.752648 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::2: ICMP6, router solicitation, length 16
+17:40:02.192891 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::2: ICMP6, router solicitation, length 16
+17:42:03.024698 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::2: ICMP6, router solicitation, length 16
+17:46:00.592717 eth0  M   IP6 fe80::68f4:a5ff:fed0:2b07 > ff02::2: ICMP6, router solicitation, length 16
